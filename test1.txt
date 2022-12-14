@@ -5,4 +5,4 @@ I have completed my master in 2021
 I have started my full stach web development job 2021
 I will join at MFile 1st of december
 logo alignment is center.
-new line is added in feature branch
+new line is added in feature branach
